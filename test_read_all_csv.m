@@ -1,4 +1,7 @@
 
+%thi is sanchain branch
+
+
 % read all csv file and save all_data.mat 
 files = dir('C:\Users\thithilab\Desktop\San Chain\my research\dataset\csv files-20220527T010001Z-001\csv files\*.csv');
 fullpaths = fullfile({files.folder}, {files.name});
@@ -27,6 +30,6 @@ end
 %this is test
 
 
-
-
 %thi is sanchain branch
+
+
